@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/agronholm/docker-atlassian-confluence/commit/573b616b9a2de79b21545ae7f57845456f82f4e0",
       "git:hexsha": "573b616b9a2de79b21545ae7f57845456f82f4e0",
-      "repolex:parseStatus": "metadata_complete"
+      "repolex:parseStatus": "ast_complete"
     }
   ]
 }
